@@ -1,18 +1,18 @@
-PHD upgrade quest now requires you to get the maximum board repair reward in each round before round 4/n
-(carpenter and hacker don't count)/n
-New floating easter egg step text/n
-The Giant's teleporter now only spawns vaild powerups/n
-New weapon trade UI/n
-added new Dragon Shield upgrade steps to Revelations/n
-added hintstrings for AA Gun to Zetsubou No Shima/n
-Added map restart for Origins because objective ID allocation has now been fixed/n
-The command for scoreboard map restart has been changed to checkpoint_restart/n
-/n
-Fixed an issue where some map loading movies could not be load/n
-Fixed an issue with the Panzer helmet player icon/n
-Fixed Dark harvest due to Ragnarok issues preventing the main EE from continuing/n
-/n
-Remove the Start With Bowie Knife option/n
-Remove the ability to check the EE counter status via chat commands/n
-Disable S.O.P.H.I.A. dialogue after she flies away/n
-PHD will no longer be immune to attacks from Meatball , Valkyrie Drone , Parasite , Spider/n
+PHD upgrade quest now requires you to get the maximum board repair reward in each round before round 4
+(carpenter and hacker don't count)
+New floating easter egg step text
+The Giant's teleporter now only spawns vaild powerups
+New weapon trade UI
+added new Dragon Shield upgrade steps to Revelations
+added hintstrings for AA Gun to Zetsubou No Shima
+Added map restart for Origins because objective ID allocation has now been fixed
+The command for scoreboard map restart has been changed to checkpoint_restart
+
+Fixed an issue where some map loading movies could not be load
+Fixed an issue with the Panzer helmet player icon
+Fixed Dark harvest due to Ragnarok issues preventing the main EE from continuing
+
+Remove the Start With Bowie Knife option
+Remove the ability to check the EE counter status via chat commands
+Disable S.O.P.H.I.A. dialogue after she flies away
+PHD will no longer be immune to attacks from Meatball , Valkyrie Drone , Parasite , Spider
