@@ -1,18 +1,17 @@
-PHD upgrade quest now requires you to get the maximum board repair reward in each round before round 4
-(carpenter and hacker don't count)
-New floating easter egg step text
-The Giant's teleporter now only spawns vaild powerups
-New weapon trade UI
-added new Dragon Shield upgrade steps to Revelations
-added hintstrings for AA Gun to Zetsubou No Shima
-Added map restart for Origins because objective ID allocation has now been fixed
-The command for scoreboard map restart has been changed to checkpoint_restart
+Fixed clipping issues when weapons are sucked into the Pack a Punch, including adding the weapon rotation animation from BO2
+Fixed perk slot count error caused by near death
+Fixed missing strings in story subtitles
+Fixed an issue where zombies would be instantly killed by lava in Town Remastered
+Fixed an issue where weapons that cannot be upgraded could interact with Pack a Punch
+Fixed an issue where pressing melee in Shadows of Evil would not upgrade Li'l Arnie
+Fixed an issue where black bar were visible when joining a match midgame
+Fixed an issue where the Perk Slot Powerup did not drop in Zetsubou No Shima
 
-Fixed an issue where some map loading movies could not be load
-Fixed an issue with the Panzer helmet player icon
-Fixed Dark harvest due to Ragnarok issues preventing the main EE from continuing
+Changed the order of damage number calculation
+Added dialogue feature support for the bot
+Added a display in the lobby indicating whether the current AAE requires updating
+Added display of current AAE change notes in the lobby
+Rewrote new Zetsubou No Shima story subtitles( thanks gremlin )
 
-Remove the Start With Bowie Knife option
-Remove the ability to check the EE counter status via chat commands
-Disable S.O.P.H.I.A. dialogue after she flies away
-PHD will no longer be immune to attacks from Meatball , Valkyrie Drone , Parasite , Spider
+Remove only wallbuys priced below 950 from the box
+(Moon Box still removes all wall buys)
