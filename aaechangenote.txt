@@ -1,17 +1,28 @@
-Fixed clipping issues when weapons are sucked into the Pack a Punch, including adding the weapon rotation animation from BO2
-Fixed perk slot count error caused by near death
-Fixed missing strings in story subtitles
-Fixed an issue where zombies would be instantly killed by lava in Town Remastered
-Fixed an issue where weapons that cannot be upgraded could interact with Pack a Punch
-Fixed an issue where pressing melee in Shadows of Evil would not upgrade Li'l Arnie
-Fixed an issue where black bar were visible when joining a match midgame
-Fixed an issue where the Perk Slot Powerup did not drop in Zetsubou No Shima
+Added HUD layout option
+Before Round 11, the round counter will only use tally marks (BO2 round counter)
+Added a new pause menu tab allowing customization of the first person arm angle position
+Change Widow's Wine Jingle to the leaked version
+No Man's Land and Junction will be enabled after the game begins
+During the Spider Bait step in Zetsubou No Shima, the spider will ignore all damage
+Bot will now move to the player's marker (if the marker is in a valid location)
+If no more zombies will spawn in the current round, Turned zombie will die immediately
+Added option to disable tip hints
+TF Zombie Options will reset upon first use of this version
+Lobby music changed to Damned 5
 
-Changed the order of damage number calculation
-Added dialogue feature support for the bot
-Added a display in the lobby indicating whether the current AAE requires updating
-Added display of current AAE change notes in the lobby
-Rewrote new Zetsubou No Shima story subtitles( thanks gremlin )
+Completely rewriting the HUD movement code to make its motion smoother
+HUD movement now checks the current HUD If no widget has a set rotation value, it will automatically disable itself
+The change camo key has been reassigned to another key
+Adjusted the damage area of the Purifier
+Rewrite the text string conversion function for the hintstring widget
+AAT Cooling Timer Flow Rate Adjustment
+Adjusted the dialogue sequence for the Elemental Bow in Der Eisendrache
+The maximum ammo bag price limit has been set at 6000
 
-Remove only wallbuys priced below 950 from the box
-(Moon Box still removes all wall buys)
+Fixed an issue in Origins where the Soul Box for the One Inch Punch could not charge multiple souls simultaneously
+Fixed the issue where subtitles for Doctor Monty's radio were invisible in Zombies Chronicles
+Fixed an issue where the plane in Terminal Reimagined could not be spawned
+Fixed an issue where the Zone Announcer was not visible in custom maps
+Fixed an issue where hint strings did not disappear after player interaction
+Fixed an issue where the slider in AAE Options was positioned higher than other options
+Removed the coordinate values printed during the wisps step in Der Eisendrache
