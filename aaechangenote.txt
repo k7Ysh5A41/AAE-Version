@@ -1,6 +1,6 @@
 -----------------v3.3.1-----------------
 You can now revive teammates or interact with gobblegum machines while purchasing perks and wielding minigun
-Allow revival without looking at teammates
+Allow revive without looking at teammates
 Origins giant robots can now be paused by Killing Time gobblegum
 
 Fixed an issue where the game became unplayable due to spiders ignoring damage too early during the Spider Bait step
