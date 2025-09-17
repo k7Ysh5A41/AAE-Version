@@ -1,14 +1,14 @@
-^3Bot Behavior Learning Function^7
-Bots will now follow certain player actions, and pressing the Reload key will let bots to look in the player's direction
+^3Bot Behavior Learning Function
+^7Bots will now follow certain player actions, and pressing the Reload key will let bots to look in the player's direction
 
-^3GobbleGum^7
-Reduced the points deduction for Blood Debt
+^3GobbleGum
+^7Reduced the points deduction for Blood Debt
 Added camera transitions for Anywhere But Here and Nowhere But There
 Added area damage to Sword Flay
 Brightness issue with the gobblegum machine's gum ball lighting fx
 
-^3ZC Map Changes^7
-Ambient music from bo1
+^3ZC Map Changes
+^7Ambient music from bo1
 Elemental Fist now continuously updates based on the staff being wielded
 Pickup and kill dialogue for the Annihilator
 Dialogue for the arm being shot off
@@ -16,8 +16,8 @@ Some dialogue from bo1 to Kino der Toten and Moon
 Added music to play upon reaching the Soul Box at the church and Generator Station 5
 Monkey that steals perks will always be outlined
 
-^3Added^7
-Added Weapon Information display for the mystery box
+^3Added
+^7Added Weapon Information display for the mystery box
 Unupgraded PHD now features explosion effects with excessively high jump heights
 After activating all corruption engines and pap ritual, enable the power_on flag to allow the minigun powerup to drop
 Added system time to the scoreboard and pause menu
@@ -27,8 +27,8 @@ Perk dialogue for Season Pass maps
 Players will be immune to all damage until the map has finished loading
 Use /modvar entview 1 command in the lobby to enable Entity/Trigger Viewer on the map
 
-^3Changes^7
-Staff, NX ShadowClaw, Lightning Bow damage increased
+^3Changes
+^7Staff, NX ShadowClaw, Lightning Bow damage increased
 Removed the Der Wunderizz music and powerup announcer from Nacht der Untoten
 Restrict the camo change key to allow only primary weapons
 The black border no longer covers the menu
@@ -42,8 +42,8 @@ Improved bot aiming accuracy now only fires when enemies are visible
 Disable the function that enables the lightning part zone in Origins from the game start
 Removed the mystery box filter to avoid misunderstanding its function
 
-^3Fixed^7
-Revelations and Origins would reset the increased zombie limit back to 24
+^3Fixed
+^7Revelations and Origins would reset the increased zombie limit back to 24
 Certain dialogue lines were incorrectly triggered upon killing zombies
 auto leaning did not function properly on certain custom maps
 weapon recoil transitions were not smooth in custom maps
