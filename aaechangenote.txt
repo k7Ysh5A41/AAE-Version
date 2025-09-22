@@ -1,3 +1,16 @@
+------------------------------v3.4.1------------------------------
+Fixed game crash issue in Wanted, Fabrik Der Untoten and Origins
+Fixed invisible zombies appearing when Ragnarok DG-4 runs out of energy
+Fixed missing subtitles for perk dialogue in Season Pass maps
+Fixed an issue in Der Riese: Declassified where the HUD layout could not be changed.
+Fixed an issue where tip hints appeared on the wrong map.
+Fixed UI error in Shadows of Evil
+Automatically capitalize the first letter for Zone Announcer on custom maps
+Rewrite the Mystery Box Filter
+Perk slot powerups will no longer spawn when all players have maxed perk slots
+New BO2 HUD Layout
+Drop points at Juggernog to purchase PHD( only for The Giant, Shi No Numa, Mob of the Dead )
+------------------------------v3.4.0------------------------------
 ^3Bot Behavior Learning Function
 ^7Bots will now follow certain player actions, and pressing the Reload key will let bots to look in the player's direction
 
