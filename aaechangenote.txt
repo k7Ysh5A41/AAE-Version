@@ -1,4 +1,4 @@
-------------------------------v3.4.1------------------------------
+------------------------------^5v3.4.1^7------------------------------
 Fixed game crash issue in Wanted, Fabrik Der Untoten and Origins
 Fixed invisible zombies appearing when Ragnarok DG-4 runs out of energy
 Fixed missing subtitles for perk dialogue in Season Pass maps
@@ -10,7 +10,7 @@ Rewrite the Mystery Box Filter
 Perk slot powerups will no longer spawn when all players have maxed perk slots
 New BO2 HUD Layout
 Drop points at Juggernog to purchase PHD( only for The Giant, Shi No Numa, Mob of the Dead )
-------------------------------v3.4.0------------------------------
+------------------------------^5v3.4.0^7------------------------------
 ^3Bot Behavior Learning Function
 ^7Bots will now follow certain player actions, and pressing the Reload key will let bots to look in the player's direction
 
