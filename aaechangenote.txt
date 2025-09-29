@@ -1,68 +1,29 @@
-------------------------------^5v3.4.1^7------------------------------
-Fixed game crash issue in Wanted, Fabrik Der Untoten and Origins
-Fixed invisible zombies appearing when Ragnarok DG-4 runs out of energy
-Fixed missing subtitles for perk dialogue in Season Pass maps
-Fixed an issue in Der Riese: Declassified where the HUD layout could not be changed.
-Fixed an issue where tip hints appeared on the wrong map.
-Fixed UI error in Shadows of Evil
-Automatically capitalize the first letter for Zone Announcer on custom maps
-Rewrite the Mystery Box Filter
-Perk slot powerups will no longer spawn when all players have maxed perk slots
-New BO2 HUD Layout
-Drop points at Juggernog to purchase PHD( only for The Giant, Shi No Numa, Mob of the Dead )
-------------------------------^5v3.4.0^7------------------------------
-^3Bot Behavior Learning Function
-^7Bots will now follow certain player actions, and pressing the Reload key will let bots to look in the player's direction
-
-^3GobbleGum
-^7Reduced the points deduction for Blood Debt
-Added camera transitions for Anywhere But Here and Nowhere But There
-Added area damage to Sword Flay
-Brightness issue with the gobblegum machine's gum ball lighting fx
-
-^3ZC Map Changes
-^7Ambient music from bo1
-Elemental Fist now continuously updates based on the staff being wielded
-Pickup and kill dialogue for the Annihilator
-Dialogue for the arm being shot off
-Some dialogue from bo1 to Kino der Toten and Moon
-Added music to play upon reaching the Soul Box at the church and Generator Station 5
-Monkey that steals perks will always be outlined
+^3New Perk Powerup
+^7Only give the perk to the graber
+Drops only after the power is activated
+All players' available perk slots number must be below negative one
+No one have Unquenchable or Soda Fountain Gobblegum
+At least one player has not acquired all perks
+50% chance to be added to the powerup drop pool
 
 ^3Added
-^7Added Weapon Information display for the mystery box
-Unupgraded PHD now features explosion effects with excessively high jump heights
-After activating all corruption engines and pap ritual, enable the power_on flag to allow the minigun powerup to drop
-Added system time to the scoreboard and pause menu
-Weapon trading no longer requires looking at the other player
-Added safe area support for certain widgets that were previously unaffected by safe area updates
-Perk dialogue for Season Pass maps
-Players will be immune to all damage until the map has finished loading
-Use /modvar entview 1 command in the lobby to enable Entity/Trigger Viewer on the map
+^7Turned zombies will commit suicide when only 2 zombies remain
+FOV transitions to cutscenes
+Option to disable the feature introduced in v3.2.3 that removes wallbuys from boxes
+Die Rise Zone Announcer
+The typing icon in the player's health bar has been changed to reloading icon
+Bot now only purchase doors that are already half price
+More map categories to the map selection menu
 
 ^3Changes
-^7Staff, NX ShadowClaw, Lightning Bow damage increased
-Removed the Der Wunderizz music and powerup announcer from Nacht der Untoten
-Restrict the camo change key to allow only primary weapons
-The black border no longer covers the menu
-Updates more checks for main HUD variable names to match the appropriate HUD widget and update its position
-Reset the modelvalue of the round counter after level restart
-Rewrite the hintstring character matching check function
-Junction zone requires touch to be activated
-Optimization of left hand gesture transitions
-Increase the maximum allowable range of bullets
-Improved bot aiming accuracy now only fires when enemies are visible
-Disable the function that enables the lightning part zone in Origins from the game start
-Removed the mystery box filter to avoid misunderstanding its function
+^7Restore the original Raygun self damage value for compatibility with Call of the Dead
+Explosive damage dealt to players by enemies will only be immune to damage from regular zombies
+Optimize text in all languages
+The map ID used in the Nuketown playlist for public matches has been changed to a mod friendly version
 
 ^3Fixed
-^7Revelations and Origins would reset the increased zombie limit back to 24
-Certain dialogue lines were incorrectly triggered upon killing zombies
-auto leaning did not function properly on certain custom maps
-weapon recoil transitions were not smooth in custom maps
-dempsey did not have dialogue when picking up a shield
-the start round option was not functioning
-using AFK in spectator mode caused zombies to permanently ignore players
-powerup delay effect in Shangri-La was not being cleared
-Fov scale would reset during coop gameplay
-Unreadable characters in some game languages
+^7Dropping points on Juggernog in Mob of the Dead failed to trigger the PHD purchase
+Black Ops 2 HUD layout error on Shadows of Evil
+Using the teleporter would trigger a PHD explosion
+Melee weapon information displayed an extra line break
+Powerup icons failed to load in Shadows of Evil
