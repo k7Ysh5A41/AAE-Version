@@ -1,3 +1,11 @@
+------------------^5v3.4.3^7------------------
+Fixed an issue where Ascension HUD failed to load correctly
+Added support for the Safearea text to automatically switch to the appropriate input device based on the input device being used
+Bot will now purchase doors near player markers
+Reduce the minimum distance at which bots will follow players
+Fixed an issue where the Purifier dealt too little damage
+Survive 5 consecutive rounds in the Receiving Bay on the Moon to trigger the Nightmare EE song
+------------------^5v3.4.2^7------------------
 ^3New Perk Powerup
 ^7Only give the perk to the grabber
 Drops only after the power is activated
