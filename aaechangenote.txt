@@ -1,5 +1,5 @@
 ------------------^5v3.4.3^7------------------
-Fixed an issue where Ascension HUD failed to load correctly
+^7Fixed an issue where Ascension HUD failed to load correctly
 Added support for the Safearea text to automatically switch to the appropriate input device based on the input device being used
 Bot will now purchase doors near player markers
 Reduce the minimum distance at which bots will follow players
