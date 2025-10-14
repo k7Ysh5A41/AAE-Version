@@ -7,7 +7,7 @@ If you have Speed Cola, Sprint first and Reload after. Once the magazine is full
 ^7Make Crawlers With Shotgun or Sniper Rifle
 Inspect UI
 Quit to Desktop Button To the Pause Menu
-Origin Perk Machine Requires Power Dialogue
+Origins Perk Machine Requires Power Dialogue
 Hide the Round Counter in Area 51
 Trigger Marker
 Lightning Staff and Wind Staff Kill Dialogue
