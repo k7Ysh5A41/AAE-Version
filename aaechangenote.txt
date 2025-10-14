@@ -1,37 +1,36 @@
-------------------^5v3.4.3^7------------------
-^7Fixed an issue where Ascension HUD failed to load correctly
-Added support for the Safearea text to automatically switch to the appropriate input device based on the input device being used
-Bot will now purchase doors near player markers
-Reduce the minimum distance at which bots will follow players
-Fixed an issue where the Purifier dealt too little damage
-Survive 5 consecutive rounds in the Receiving Bay on the Moon to trigger the Nightmare EE song
-------------------^5v3.4.2^7------------------
-^3New Perk Powerup
-^7Only give the perk to the grabber
-Drops only after the power is activated
-All players' available perk slots number must be below negative one
-No one have Unquenchable or Soda Fountain Gobblegum
-At least one player has not acquired all perks
-50% chance to be added to the powerup drop pool
+^3Reload Cancel
+^7Reload first and Sprint after. Reloading will be canceled
+If you have Speed Cola, Sprint first and Reload after. Once the magazine is full, Reloading will be canceled
+( Reload Cancel only works when you have at least 2 guns )
 
 ^3Added
-^7Turned zombies will commit suicide when only 2 zombies remain
-FOV transitions to cutscenes
-Option to disable the feature introduced in v3.2.3 that removes wallbuys from boxes
-Die Rise Zone Announcer
-The typing icon in the player's health bar has been changed to reloading icon
-Bot now only purchase doors that are already half price
-More map categories to the map selection menu
+^7Make Crawlers With Shotgun or Sniper Rifle
+Inspect UI
+Quit to Desktop Button To the Pause Menu
+Origin Perk Machine Requires Power Dialogue
+Hide the Round Counter in Area 51
+Trigger Marker
+Lightning Staff and Wind Staff Kill Dialogue
+Powerup Announcers Will Now Play in sequence Without Overlapping
+Menu Transition Animation
+Pause Menu with Clearer Background
+Press the melee button to share Gobblegum
 
 ^3Changes
-^7Restore the original Raygun self damage value for compatibility with Call of the Dead
-Explosive damage dealt to players by enemies will only be immune to damage from regular zombies
-Optimize text in all languages
-The map ID used in the Nuketown playlist for public matches has been changed to a mod friendly version
+^7Lobby music Changed to Damned 8
+Reign Drop will Immediately Spawn 9 Powerups
+Disable Weapon Trading When Reviving Teammates
+Text for Special Actions in the Keybinding Menu
+Purifier's Ammo Counter
+Purifier now uses the Exact Same Percentage Damage Check Logic as the minigun
+Allow Purifier to use in Call of the Dead
 
 ^3Fixed
-^7Dropping points on Juggernog in Mob of the Dead failed to trigger the PHD purchase
-Black Ops 2 HUD layout error on Shadows of Evil
-Using the teleporter would trigger a PHD explosion
-Melee weapon information displayed an extra line break
-Powerup icons failed to load in Shadows of Evil
+^7Minigun dealt too little damage
+Display error for day of the week text
+UI errors in the Shadows of Evil
+Changing the starting point had no effect on the Mob of the Dead
+Minigun dealt too little damage
+0 and 2 would stack on top of each other in the round counter
+Players could take damage when interacting with gobblegum or perk machine or reviving teammates
+Damage reduction for the bot was not functioning properly
