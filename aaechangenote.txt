@@ -1,3 +1,9 @@
+----------------------^53.5.1----------------------
+Fixed Reign Drops causing powerups to move to unreachable positions
+Fixed incorrect notification text for Sword Flay
+Fixed an issue where the Zone Announcer was not loading for Die Rise
+Fixed an issue where Gambler airstrikes would hit the ceiling
+----------------------^53.5.0----------------------
 ^3Reload Cancel
 ^7Reload first and Sprint after. Reloading will be canceled
 If you have Speed Cola, Sprint first and Reload after. Once the magazine is full, Reloading will be canceled
