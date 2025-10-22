@@ -1,3 +1,19 @@
+----------------------^53.5.2^7----------------------
+^7Added deactivation support for Undead Man Walking and Idle Eyes
+BO7 Health Bar
+Fixed an issue that caused Trigger Markers to remain permanently visible
+Fixed an issue where starting points on some maps were not functioning properly
+Fixed an issue where other players' POV did not initialize at the start of the match
+Fixed an issue where bots would run out of ammo
+Fixed an issue where the bot's grenade variable check was failing
+Depth of Field permanently disabled and shortcut key removed
+Moved HUD shaking to the AAE option
+Moved the share gobblegum's text into hintstring
+Added subtitle support for Verrückt and Kino der Toten
+Increase the loading speed for Ascension
+Allow custom maps to disable out of bounds or replace it with death barriers
+Fixed an issue where perk machines could not be marked on certain maps
+Fully compatible with Isle of Cthulhu
 ----------------------^53.5.1^7----------------------
 ^7Fixed Reign Drops causing powerups to move to unreachable positions
 Fixed incorrect notification text for Sword Flay
