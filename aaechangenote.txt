@@ -7,8 +7,8 @@ Fixed an issue where other players' POV did not initialize at the start of the m
 Fixed an issue where bots would run out of ammo
 Fixed an issue where the bot's grenade variable check was failing
 Depth of Field permanently disabled and shortcut key removed
-Moved HUD shaking to the AAE option
-Moved the share gobblegum's text into hintstring
+Move HUD shaking to the AAE option
+Move Share gobblegum's text into hintstring
 Added subtitle support for Verrückt and Kino der Toten
 Increase the loading speed for Ascension
 Allow custom maps to disable out of bounds or replace it with death barriers
