@@ -13,7 +13,7 @@ Added subtitle support for Verrückt and Kino der Toten
 Increase the loading speed for Ascension
 Allow custom maps to disable out of bounds or replace it with death barriers
 Fixed an issue where perk machines could not be marked on certain maps
-Fully compatible with Isle of Cthulhu
+Fully compatible with Isle of Cthulhu( Lite Version Only )
 ----------------------^53.5.1^7----------------------
 ^7Fixed Reign Drops causing powerups to move to unreachable positions
 Fixed incorrect notification text for Sword Flay
