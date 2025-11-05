@@ -1,3 +1,6 @@
+---------------------------^2v3.6.1^7---------------------------
+Language Translation Update
+---------------------------^2v3.6.0^7---------------------------
 ^3Key Features
 ^7You can now add bookmarks to the map list
 You can now directly open the Steam Workshop page for this map within the game
