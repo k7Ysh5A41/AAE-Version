@@ -1,58 +1,49 @@
-----------------------^53.5.2^7----------------------
-^7Added deactivation support for Undead Man Walking and Idle Eyes
-BO7 Health Bar
-Fixed an issue that caused Trigger Markers to remain permanently visible
-Fixed an issue where starting points on some maps were not functioning properly
-Fixed an issue where other players' POV did not initialize at the start of the match
-Fixed an issue where bots would run out of ammo
-Fixed an issue where the bot's grenade variable check was failing
-Depth of Field permanently disabled and shortcut key removed
-Move HUD shaking to the AAE option
-Move Share gobblegum's text into hintstring
-Added subtitle support for Verrückt and Kino der Toten
-Increase the loading speed for Ascension
-Allow custom maps to disable out of bounds or replace it with death barriers
-Fixed an issue where perk machines could not be marked on certain maps
-Fully compatible with Isle of Cthulhu( Lite Version Only )
-----------------------^53.5.1^7----------------------
-^7Fixed Reign Drops causing powerups to move to unreachable positions
-Fixed incorrect notification text for Sword Flay
-Fixed an issue where the Zone Announcer was not loading for Die Rise
-Fixed an issue where Gambler airstrikes would hit the ceiling
-----------------------^53.5.0^7----------------------
-^3Reload Cancel
-^7Reload first and Sprint after. Reloading will be canceled
-If you have Speed Cola, Sprint first and Reload after. Once the magazine is full, Reloading will be canceled
-( Reload Cancel only works when you have at least 2 guns )
+^3Key Features
+^7You can now add bookmarks to the map list
+You can now directly open the Steam Workshop page for this map within the game
+Damned 100ae 2025 and Damned 8 will now play randomly
+Ultra Wide Monitor UI Stretch Fix
 
 ^3Added
-^7Make Crawlers With Shotgun or Sniper Rifle
-Inspect UI
-Quit to Desktop Button To the Pause Menu
-Origins Perk Machine Requires Power Dialogue
-Hide the Round Counter in Area 51
-Trigger Marker
-Lightning Staff and Wind Staff Kill Dialogue
-Powerup Announcers Will Now Play in sequence Without Overlapping
-Menu Transition Animation
-Pause Menu with Clearer Background
-Press the melee button to share Gobblegum
+^7Specified the location of the bank, weapon locker and rampage inducer in Der Hafen
+Support for apothicon upgrade crystals to the Highlighted Craftable Parts options
+Left hand gesture animation support for perks using perk can in custom maps
+Highlighted Craftable Parts will be visually highlighted in the DNI Nightvision
+Gobblegum powerup support no ultra rare option
+Tip hints to rainbow rater
+Removed restrictions on the HUD safezone menu
+
+^3Ascension
+^7EE Rewards: Free Lander, and Permanent Perk
+Five crew to the red phone
+Dialogue Subtitle Support
+Redphone wait time increased from 10s to 30s
+
+^3Moon
+^7Slight reduction in the wait time required to enable MPD power switching
+Upon fully opening the MPD wall, players will immediately receive minigun
 
 ^3Changes
-^7Lobby music Changed to Damned 8
-Reign Drop will Immediately Spawn 9 Powerups
-Disable Weapon Trading When Reviving Teammates
-Text for Special Actions in the Keybinding Menu
-Purifier's Ammo Counter
-Purifier now uses the Exact Same Percentage Damage Check Logic as the minigun
-Allow Purifier to use in Call of the Dead
+^7Deadshot buff can only be disabled by bullet damage
+Score events support double points
+Update Discord Rich Presence Text
+Eclipse will now require all players to press buttons (up to a maximum of 4 buttons)
+AAE shortcut key will rebind each time you exit the bo3 keybind menu
+Move the Random Map button down
+If any player's current weapon is wonder weapons, disable double tap charging acceleration for specialists weapons
+Increase the probability of AAE weapons
+Updated the number of times certain Gobblegum can be activated and their descriptions
 
 ^3Fixed
-^7Minigun dealt too little damage
-Display error for day of the week text
-UI errors in the Shadows of Evil
-Changing the starting point had no effect on the Mob of the Dead
-Minigun dealt too little damage
-0 and 2 would stack on top of each other in the round counter
-Players could take damage when interacting with gobblegum or perk machine or reviving teammates
-Damage reduction for the bot was not functioning properly
+^7Apothicon Servant upgrade steps would not drop to the ground at the end
+Purifier could not deal damage to parasite
+Health bar were not displayed for certain custom enemies
+Damage numbers appear when hitting friendly entity
+Monkey don't have outline
+Game will no longer display a crash popup upon exit
+
+^3New AAE Options
+^7Disable Idle Eyes filter
+Disable Shotgun Gib
+Disable Manual Reload Cancel
+Disable Trigger Marker
