@@ -1,3 +1,6 @@
+---------------------------^2v3.6.4^7---------------------------
+^7Fixed an issue where attempting to read an unregistered zombie option in AAE caused the entire game UI to become invisible
+In-game change notes adapted for ultra wide monitor
 ---------------------------^2v3.6.3^7---------------------------
 ^7Fixed the issue where the mystery box filter was not functioning
 Fixed an issue where weapon chance were not functioning correctly
