@@ -1,3 +1,9 @@
+---------------------------^2v3.6.5^7---------------------------
+^7Lower the stock size of dualwield Raygun and Thundergun
+Lower the priority of the perk jingle
+Fixed compatibility issues with Five Nights at Freddy's 3
+Apothicon Servant's heartbeat is disabled only after completing 100 zombie charges
+Fixed an issue where random powerup spawns in certain maps would select the wrong powerup
 ---------------------------^2v3.6.4^7---------------------------
 ^7Fixed an issue where attempting to read an unregistered zombie option in AAE caused the entire game UI to become invisible
 In-game change notes adapted for ultra wide monitor
