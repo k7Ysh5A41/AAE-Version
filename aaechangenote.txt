@@ -1,74 +1,79 @@
----------------------------^2v3.6.5^7---------------------------
-^7Fixed an issue where switching from dualwield Raygun and Thundergun to singlewield caused bugs
-Lower the stock size and fire rate of dualwield Raygun and Thundergun
-Lower the priority of the perk jingle
-Fixed compatibility issues with Five Nights at Freddy's 3
-Apothicon Servant's heartbeat is disabled only after completing 100 zombie charges
-Fixed an issue where random powerup spawns in certain maps would select the wrong powerup
----------------------------^2v3.6.4^7---------------------------
-^7Fixed an issue where attempting to read an unregistered zombie option in AAE caused the entire game UI to become invisible
-In-game change notes adapted for ultra wide monitor
----------------------------^2v3.6.3^7---------------------------
-^7Fixed the issue where the mystery box filter was not functioning
-Fixed an issue where weapon chance were not functioning correctly
----------------------------^2v3.6.2^7---------------------------
-^7Fixed an issue where Auto Revive would cause players to remain permanently stuck in Last Stand
-Fixed an issue where the bank added to Der Hafen was not functioning properly
-You can now press Left Dpad to switch the dual wield Raygun and Thundergun to single wield
-Fixed an issue where subtitles did not work in zombie blood on Origins
-Fixed an issue where AAT could not be applied to the Apothicon Servant
-AAT for the Thundergun and Baby gun has been disabled
-When players mark locations, a message will appear on the left side
-Added unused dialogue for Shadows of Evil
----------------------------^2v3.6.1^7---------------------------
-^7Language Translation Update
----------------------------^2v3.6.0^7---------------------------
 ^3Key Features
-^7You can now add bookmarks to the map list
-You can now directly open the Steam Workshop page for this map within the game
-Damned 100ae 2025 and Damned 8 will now play randomly
-Ultra Wide Monitor UI Stretch Fix
+^7Grenade Trajectory
+Remade ThirdPerson
+All EE Rewards can be viewed within the AAE Career
 
 ^3Added
-^7Specified the location of the bank, weapon locker and rampage inducer in Der Hafen
-Support for apothicon upgrade crystals to the Highlighted Craftable Parts options
-Left hand gesture animation support for perks using perk can in custom maps
-Highlighted Craftable Parts will be visually highlighted in the DNI Nightvision
-Gobblegum powerup support no ultra rare option
-Tip hints to rainbow rater
-Removed restrictions on the HUD safezone menu
+^7Restored the fire empty sound of Raygun from BO2 Mob of the Dead
+Fumigator added to the Highlighted Craftable Parts option
+Next to Widow's Wine, you can see the PHD upgrade steps
+If someone disables Rampage Inducer, a prompt will appear
+Reloading prompt
+Wait until the round start function pointer is defined before beginning the game
+Host can use Roamer as spectator
+Added Velocity support for HUD shaking
+Hintstring widget update
+Brighter tracer rounds
+Visibility subscription for Progress Bar and create_lui_text function
+Turned zombie will randomly grant player a few points
+Dog Round sound from WAW PS3
+Deadshot Daiquiri to Shadows of Evil
+Invisible zombies will be deleted when they are about to deal damage to players
+UI colors will be synchronized to the mouse cursor -thanks DRG2Boss
+New Power On Sound Effect -thanks Rock Robster 115
 
-^3Ascension
-^7EE Rewards: Free Lander, and Permanent Perk
-Five crew to the red phone
-Dialogue Subtitle Support
-Redphone wait time increased from 10s to 30s
-
-^3Moon
-^7Slight reduction in the wait time required to enable MPD power switching
-Upon fully opening the MPD wall, players will immediately receive minigun
+^3GobbleGum
+^7Buff Burned Out
+Phoenix Up prevents game over
+Make Fear in Headlights cancelable
+New Gobblegum Label
+Gobblegum Timer
 
 ^3Changes
-^7Deadshot buff can only be disabled by bullet damage
-Score events support double points
-Update Discord Rich Presence Text
-Eclipse will now require all players to press buttons (up to a maximum of 4 buttons)
-AAE shortcut key will rebind each time you exit the bo3 keybind menu
-Move the Random Map button down
-If any player's current weapon is wonder weapons, disable double tap charging acceleration for specialists weapons
-Increase the probability of AAE weapons
-Updated the number of times certain Gobblegum can be activated and their descriptions
+^7Picking up max ammo will automatically reload cancel
+No additional points are required to purchase PHD at the Widow's Wine machine
+Reduce the delay of the Marker key
+Limit the maximum safearea for the HUD
+Change Raygun's reloadAddTime to 1.9s
+Change Raygun mk3's reloadAddTime to 2.16s
+Change the reload time for dualwield Raygun to same as single Raygun
+Media button removed
+Zombie Health Bar Visibility Logic Rewrite
+Minor Optimization of Time-Based Perk Loss
+Change the shortcut key order for controllers
+Remove Connection Meter
+Disable dialogue subtitles for unsupported languages
+Remove the thirdperson laser light source effect
+ammo bag will be disabled in Gun Game
+Remove bullet depletion
+Disable Raygun's Aim Assist
+Bookmark Categories Move to Top
+Ammo bag will avoid spawning near interaction points
 
 ^3Fixed
-^7Apothicon Servant upgrade steps would not drop to the ground at the end
-Purifier could not deal damage to parasite
-Health bar were not displayed for certain custom enemies
-Damage numbers appear when hitting friendly entity
-Monkey don't have outline
-Game will no longer display a crash popup upon exit
+^7Restart key in custom scoreboard
+Perk Jingles volume is low
+Five Nights at Freddy's 3 will cause the game to crash
+Ammo counter encounter issues on ultrawide monitor
+Nikolai and Takeo gesture model errors after wearing Weasel hat
+Dialogue for Origins Pickup rifle has been corrected from "mg" to "rifle"
+Player feedback regarding Civil Protector's dialogue
+Elements added to LUI.UIImage in custom maps were not visible
+ADS animation for certain weapons was not functioning properly
+Revelations' black screen not working
+Clientfields issue with the gobblegum machine
+Attempting to fix the PAP will cause no ammo
+Issues with thirdperson mantle and pipe-climbing animations
 
 ^3New AAE Options
-^7Disable Idle Eyes filter
-Disable Shotgun Gib
-Disable Manual Reload Cancel
-Disable Trigger Marker
+^7Weapon Options - Weapon Kit is only for paped
+
+^3New Chat Command
+^7Transfer all points to the specified player
+^2/transfer/{player num}
+^7Deposit all points into the bank
+^2/dep
+^7Check Balance
+^2/bal
+^7Respawn Ammo Bag
+^2/ammo
