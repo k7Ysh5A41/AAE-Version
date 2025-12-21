@@ -1,3 +1,7 @@
+------------------------^5v3.7.1^7------------------------
+Remove laststand debug print
+Fix potential crash from disconnect command
+------------------------^5v3.7.0^7------------------------
 ^3Key Features
 ^7Grenade Trajectory
 Remade ThirdPerson
