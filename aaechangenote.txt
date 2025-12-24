@@ -1,3 +1,7 @@
+------------------------^5v3.7.2^7------------------------
+Fixed game crashes introduced in recent updates
+Add subtitle support for the ending cutscene
+English localization improvements -thanks DRG2Boss
 ------------------------^5v3.7.1^7------------------------
 Remove laststand debug print
 Fix potential crash from disconnect command
