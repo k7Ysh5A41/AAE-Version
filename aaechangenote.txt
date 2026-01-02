@@ -1,87 +1,44 @@
-------------------------^5v3.7.2^7------------------------
-Fixed game crashes introduced in recent updates
-Add subtitle support for the ending cutscene
-English localization improvements -thanks DRG2Boss
-------------------------^5v3.7.1^7------------------------
-Remove laststand debug print
-Fix potential crash from disconnect command
-------------------------^5v3.7.0^7------------------------
-^3Key Features
-^7Grenade Trajectory
-Remade ThirdPerson
-All EE Rewards can be viewed within the AAE Career
-
 ^3Added
-^7Restored the fire empty sound of Raygun from BO2 Mob of the Dead
-Fumigator added to the Highlighted Craftable Parts option
-Next to Widow's Wine, you can see the PHD upgrade steps
-If someone disables Rampage Inducer, a prompt will appear
-Reloading prompt
-Wait until the round start function pointer is defined before beginning the game
-Host can use Roamer as spectator
-Added Velocity support for HUD shaking
-Hintstring widget update
-Brighter tracer rounds
-Visibility subscription for Progress Bar and create_lui_text function
-Turned zombie will randomly grant player a few points
-Dog Round sound from WAW PS3
-Deadshot Daiquiri to Shadows of Evil
-Invisible zombies will be deleted when they are about to deal damage to players
-UI colors will be synchronized to the mouse cursor -thanks DRG2Boss
-New Power On Sound Effect -thanks Rock Robster 115
-
-^3GobbleGum
-^7Buff Burned Out
-Phoenix Up prevents game over
-Make Fear in Headlights cancelable
-New Gobblegum Label
-Gobblegum Timer
+Help prompt for Widow's Wine and Coop Quick Revive
+^7Upon first use of this update, all gobblegum loadouts and weapon kits will be reset to new presets
+Zombie walking animation from WAW
+Samantha's laugh to Nacht der Untoten
+Shadows of Evil outro to Map Cinema, along with its ingame subtitles
+WAW's main menu music to the lobby music
+Clock ticking sounds for The Giant
+Black Ops 6 Hitmarker Sound
 
 ^3Changes
-^7Picking up max ammo will automatically reload cancel
-No additional points are required to purchase PHD at the Widow's Wine machine
-Reduce the delay of the Marker key
-Limit the maximum safearea for the HUD
-Change Raygun's reloadAddTime to 1.9s
-Change Raygun mk3's reloadAddTime to 2.16s
-Change the reload time for dualwield Raygun to same as single Raygun
-Media button removed
-Zombie Health Bar Visibility Logic Rewrite
-Minor Optimization of Time-Based Perk Loss
-Change the shortcut key order for controllers
-Remove Connection Meter
-Disable dialogue subtitles for unsupported languages
-Remove the thirdperson laser light source effect
-ammo bag will be disabled in Gun Game
-Remove bullet depletion
-Disable Raygun's Aim Assist
-Bookmark Categories Move to Top
-Ammo bag will avoid spawning near interaction points
+^7Controller's pause and scoreboard button bindings will reset after map loading
+Players can see their color while in the lobby
+Remove Widow's Wine Explosion Immunity
+Optimizing WeaponTrade will not interfere with nearby interactive points
+Gesture Model Motion Stability Optimization
+A stricter checks has been implemented for drop point shortcuts to prevent PHD purchase failures. Repeated the same action will result in PHD removal without refund
+Remove Flat UI
+Remove reload prompt text from custom maps
+Disable the health bar above the character's head when switching to thirdperson
+Undo changes to the GameTimeGroup widget
+Updated the data source for the lua game over screen buttons in some custom maps
+Removed distance testing for the ammo counter in the sights
+Movement Speed Statistics displays only the current speed
+Adjusted the size of the map preview in the Change Map menu
+Duration during which zombies ignore all players while destroying the Earth has been increased by 4 seconds
+Purifier disabled in Origins
+Change the Ammo Bag model to the Max Ammo model
+Minor performance optimization
 
 ^3Fixed
-^7Restart key in custom scoreboard
-Perk Jingles volume is low
-Five Nights at Freddy's 3 will cause the game to crash
-Ammo counter encounter issues on ultrawide monitor
-Nikolai and Takeo gesture model errors after wearing Weasel hat
-Dialogue for Origins Pickup rifle has been corrected from "mg" to "rifle"
-Player feedback regarding Civil Protector's dialogue
-Elements added to LUI.UIImage in custom maps were not visible
-ADS animation for certain weapons was not functioning properly
-Revelations' black screen not working
-Clientfields issue with the gobblegum machine
-Attempting to fix the PAP will cause no ammo
-Issues with thirdperson mantle and pipe-climbing animations
-
-^3New AAE Options
-^7Weapon Options - Weapon Kit is only for paped
-
-^3New Chat Command
-^7Transfer all points to the specified player
-^2/transfer/{player num}
-^7Deposit all points into the bank
-^2/dep
-^7Check Balance
-^2/bal
-^7Respawn Ammo Bag
-^2/ammo
+^7Ultrawide fix did not work for Linux/SteamDeck players
+Animation for Crawler attacks Shield
+Map misalignment occurred only in the AAE Lite version.
+Game stuttering issues occurring after clicking "Let's Roll"
+ADS animation issues for weapons in certain custom maps
+Player names displayed incorrectly in the teleport button prompt during more player support feature is enabled
+Dialogue for killing zombies with the staff wasn't working
+A menu error for Gobblegum Drop option
+Lighting effects missing from certain map perk machines and resolved flickering effects when perk machines are powered on
+Custom map fonts caused the zombie counter text to appear on 2 lines
+Santa's Town and Containment Breach were not functioning correctly
+Weapons lacked camos when random attachments were enabled
+Issue with the drinking perk animation in multiple custom maps
