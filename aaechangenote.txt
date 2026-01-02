@@ -1,6 +1,6 @@
 ^3Added
-Help prompt for Widow's Wine and Coop Quick Revive
-^7Upon first use of this update, all gobblegum loadouts and weapon kits will be reset to new presets
+^7Help prompt for Widow's Wine and Coop Quick Revive
+Upon first use of this update, all gobblegum loadouts and weapon kits will be reset to new presets
 Zombie walking animation from WAW
 Samantha's laugh to Nacht der Untoten
 Shadows of Evil outro to Map Cinema, along with its ingame subtitles
