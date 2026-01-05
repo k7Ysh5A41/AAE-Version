@@ -1,3 +1,25 @@
+------------------------^5v3.7.4^7------------------------
+Door opening and marking gestures use animations from BO4
+Added a zoom animation to the loading screen
+Allow C4 to detonate in mid-air
+Allow the XM53's crosshair to be visible in thirdperson
+Bigger XM53 paped Explosion Effects
+Optimize compatibility of hintstrings for certain custom maps
+Added camo support for Raygun mark3
+Move the Unsupported Maps category to the end
+Fixed an issue where Eye Candy could not be deactivated
+Fixed an issue where Elemental Bow can use Pack-a-Punch
+Fixed an issue where selecting the "No Attachments" option caused weapons to lack camos
+Fixed an issue where the Widow's Wine would not function with Burned Out
+Fixed an issue where certain custom maps would crash after loading
+Fixed an issue where MapShaderConstant 0 was not functioning for certain weapons
+
+Now supports randomizing multiple lobby background, such as:
+core_frontend_background1.mkv
+core_frontend_background2.mkv
+core_frontend_background3.mkv
+Supports up to 10 maximum.
+------------------------^5v3.7.3^7------------------------
 ^3Added
 ^7Help prompt for Widow's Wine and Coop Quick Revive
 Upon first use of this update, all gobblegum loadouts and weapon kits will be reset to new presets
