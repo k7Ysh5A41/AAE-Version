@@ -1,3 +1,16 @@
+------------------------^5v3.7.5^7------------------------
+Optimize weapon trade checks to determine if the player is currently busy
+New Map Categories
+Check more interactive points to avoid overlapping with it
+Rewrite the logic for lobby size and indicate whether the game will crash
+Removed the category images from the map change menu
+Animation for the match countdown
+Rename the Apothicon Servant from its development-stage name
+Fixed the start hint key binding error
+Fixed an issue where disorderly combat would give players weapons without ammo
+Fixed an issue where gestures were not reset after respawn
+Fixed an issue where other players' gamer tag colors were displayed incorrectly in the lobby
+Fixed crashes on certain maps
 ------------------------^5v3.7.4^7------------------------
 Door opening and marking gestures use animations from BO4
 Added a zoom animation to the loading screen
@@ -36,7 +49,8 @@ Players can see their color while in the lobby
 Remove Widow's Wine Explosion Immunity
 Optimizing WeaponTrade will not interfere with nearby interactive points
 Gesture Model Motion Stability Optimization
-A stricter checks has been implemented for drop point shortcuts to prevent PHD purchase failures. Repeated the same action will result in PHD removal without refund
+A stricter checks has been implemented for drop point shortcuts to prevent PHD purchase failures. 
+Repeated the same action will result in PHD removal without refund
 Remove Flat UI
 Remove reload prompt text from custom maps
 Disable the health bar above the character's head when switching to thirdperson
