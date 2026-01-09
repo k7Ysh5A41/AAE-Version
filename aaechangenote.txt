@@ -63,3 +63,18 @@ Duration during which zombies ignore all players while destroying the Earth has 
 Purifier disabled in Origins
 Change the Ammo Bag model to the Max Ammo model
 Minor performance optimization
+
+^3Fixed
+^7Ultrawide fix did not work for Linux/SteamDeck players
+Animation for Crawler attacks Shield
+Map misalignment occurred only in the AAE Lite version.
+Game stuttering issues occurring after clicking "Let's Roll"
+ADS animation issues for weapons in certain custom maps
+Player names displayed incorrectly in the teleport button prompt during more player support feature is enabled
+Dialogue for killing zombies with the staff wasn't working
+A menu error for Gobblegum Drop option
+Lighting effects missing from certain map perk machines and resolved flickering effects when perk machines are powered on
+Custom map fonts caused the zombie counter text to appear on 2 lines
+Santa's Town and Containment Breach were not functioning correctly
+Weapons lacked camos when random attachments were enabled
+Issue with the drinking perk animation in multiple custom maps
