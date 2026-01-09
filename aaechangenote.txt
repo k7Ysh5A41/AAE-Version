@@ -1,3 +1,5 @@
+------------------------^5v3.7.7^7------------------------
+Fixed an issue where the console was printing too much content
 ------------------------^5v3.7.6^7------------------------
 UI mouse motion is now restricted to the Lobby menu only
 Fixed an issue where the AFK feature was not functioning
