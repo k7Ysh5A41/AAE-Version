@@ -1,3 +1,9 @@
+------------------------^5v3.7.8^7------------------------
+Remove Muzzle Smoke option and add the Enemy HP Bar option
+Reorder some AAE options
+Fixed an issue where no warning appeared when attempting to launch an incompatible map
+Fixed an issue where incompatible categories were not positioned at the bottom
+Fixed an issue where options would constantly reset
 ------------------------^5v3.7.7^7------------------------
 Fixed an issue where the console was printing too much content
 ------------------------^5v3.7.6^7------------------------
