@@ -1,4 +1,3 @@
-
 ^3Highlights
 ^7Omni Movement
 Automatically fix game crashes caused by missing custom maps localization files
