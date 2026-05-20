@@ -1,47 +1,83 @@
-------------------------^5v3.7.8^7------------------------
-Remove Muzzle Smoke option and add the Enemy HP Bar option
-Reorder some AAE options
-Fixed an issue where no warning appeared when attempting to launch an incompatible map
-Fixed an issue where incompatible categories were not positioned at the bottom
-Fixed an issue where options would constantly reset
-------------------------^5v3.7.7^7------------------------
-Fixed an issue where the console was printing too much content
-------------------------^5v3.7.6^7------------------------
-UI mouse motion is now restricted to the Lobby menu only
-Fixed an issue where the AFK feature was not functioning
-Fixed an issue where weapon trading was not working
-Fixed an game crash caused by excessively long ingame change notes when t7patch v2.04 is running
-------------------------^5v3.7.5^7------------------------
-Optimize weapon trade checks to determine if the player is currently busy
-New Map Categories
-Check more interactive points to avoid overlapping with it
-Rewrite the logic for lobby size and indicate whether the game will crash
-Removed the category images from the map change menu
-Animation for the match countdown
-Rename the Apothicon Servant from its development-stage name
-Fixed the start hint key binding error
-Fixed an issue where disorderly combat would give players weapons without ammo
-Fixed an issue where gestures were not reset after respawn
-Fixed an issue where other players' gamer tag colors were displayed incorrectly in the lobby
-Fixed crashes on certain maps
-------------------------^5v3.7.4^7------------------------
-Door opening and marking gestures use animations from BO4
-Added a zoom animation to the loading screen
-Allow C4 to detonate in mid-air
-Allow the XM53's crosshair to be visible in thirdperson
-Bigger XM53 paped Explosion Effects
-Optimize compatibility of hintstrings for certain custom maps
-Added camo support for Raygun mark3
-Move the Unsupported Maps category to the end
-Fixed an issue where Eye Candy could not be deactivated
-Fixed an issue where Elemental Bow can use Pack-a-Punch
-Fixed an issue where selecting the "No Attachments" option caused weapons to lack camos
-Fixed an issue where the Widow's Wine would not function with Burned Out
-Fixed an issue where certain custom maps would crash after loading
-Fixed an issue where MapShaderConstant 0 was not functioning for certain weapons
 
-Now supports randomizing multiple lobby background, such as:
-core_frontend_background1.mkv
-core_frontend_background2.mkv
-core_frontend_background3.mkv
-Supports up to 10 maximum
+^3Highlights
+^7Omni Movement
+Automatically fix game crashes caused by missing custom maps localization files
+
+^3Easter Egg Counter Update
+^790 Times
+Right D-pad Item Resupply Fix
+Wearables from Revelations and Gorod Krovi will be automatically unlocked in Round 2
+50 Times
+Pack-a-Punch spare change increased to 935
+
+^3Option Menu Update
+^7Hud Size
+Disable Player Chatter Subtitles
+Scrambler and Cherry Fizz added to Pack-a-Punch camo list
+If the HUD Format is set to Centered Perks, the perk slot UI is disabled
+Remove Immortal Snail and Weapon Roulette
+Remove Replace Gambler With Rampage Inducer Option
+
+^3Map Updates
+^7Dialogue fixes for Moon and der eisendrache
+Fixed an issue in Moon where characters had no dialogue while charging MPD
+Issue of hackers being unable to hack the excavator
+Fixed the issue where the Blackscreen not showing up after completing the Revelations
+Fixed the issue with the Biodome jump pad lights flickering
+Add switching rainbow water to the golden bucket
+Valkyrie drone are immune to non-bullet damage during the escort
+Add markers for Valkyrie drone and Mangler
+Moon's main EE does not require Richtofen
+Fall damage has been disabled in Shangri-La
+
+^3Fxied
+^7Gesture model is not loading
+Controller cannot inspect the weapon
+Issue with custom end screens not closing automatically
+Sorting the friend list in the game
+More than 10 people in the lobby
+Controller won't pause the game
+Bug fix for changing UI colors
+Splitscreen gestures
+Auto-fix unbound keys
+
+^3Added
+^7For weapons that do not support the inspect animation, play the animation for when the weapon is first obtained instead.
+t7patch status to Discord Rich Presence
+Zombie Counter displays the number of zombies currently on the map
+After purchasing Mulekick for the first time, a max ammo will spawn on the spot
+Inspect shortcut key to the Pause menu
+Optimized stats for multiple weapon attachments
+Display mission briefing details at the start
+Pop Shocks gobblegum rewards you with 50 points when you electrocute a zombie
+You can choose your character when you start the game
+New songs have been added to the music tracks
+Firstperson Electric Cherry effect only plays when the player looks at their own feet
+Aether Cinematics has added the Call of the Dead Outro
+Brightness Calibration Bar
+PHD upgrade now includes immunity to Panzer's electric explosions
+Send message to the AAE Discord server from within the game
+When player has Juggernog, no more one hit down from Napalm Zombie's explosion
+BO2 staff glitch
+Chat command /r to activate Rampage Inducer
+
+^3Changes
+^7Remove certain gambler items in solo
+Private maps will no longer share AARs on the AAR channel
+Adjust the priority of gesture
+Remove changes from the Origins and Element 115 camos
+Increase the camo coverage of the Wunderwaffe
+Remove the adjustment limits on the safe area
+Instakill Rework
+Only one perk jingle plays at a time, and players must be nearby.
+Hellhound's HP is tripled
+Teddy bear refund Removed
+Allows players to carry both the Ray Gun Mk1 and Mk2 at the same time
+Changes to the inspect logic on Path of Sorrows
+Remove the bullet hit sound added by Zombie Chronicles
+Press the D-pad up and the melee button to set the mulekick weapon
+Rampage Inducer removes the break between rounds
+Tempest Enhancement
+AAE Theme Color Change
+if 2 zombies left, the zombies ignore the bot and chase the player instead
+Change Default Key Bindings
