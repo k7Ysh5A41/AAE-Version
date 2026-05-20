@@ -30,7 +30,7 @@ Add markers for Valkyrie drone and Mangler
 Moon's main EE does not require Richtofen
 Fall damage has been disabled in Shangri-La
 
-^3Fxied
+^3Fixed
 ^7Gesture model is not loading
 Controller cannot inspect the weapon
 Issue with custom end screens not closing automatically
