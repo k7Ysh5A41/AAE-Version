@@ -1,3 +1,16 @@
+-------------^33.8.2^7-------------
+Fixed an issue with incorrect weapon angles in Pack-a-Punch
+Fixed an issue where the escort markers for Valkyrie and Mangler were not visible
+Fixed an issue with the loading of certain weapon attachment icons
+Fixed an issue with incorrect map names in Discord Rich Presence
+Fixed an issue that occurred when clicking the Lobby Size and Video Option dropdown menu
+Fixed an issue where the Water Park Challenge panel was not loading
+When the second counter in the zombie counter is updated, the animation for the main counter will no longer play
+Removed the BO2 staff glitch and Electric Cherry fx changes
+Preview image for the Zombie Chronicles II category has been removed
+Optimized Tempest's FX and logic
+Added a filter to the AAE options menu
+-------------^33.8.0^7-------------
 ^3Highlights
 ^7Omni Movement
 Automatically fix game crashes caused by missing custom maps localization files
