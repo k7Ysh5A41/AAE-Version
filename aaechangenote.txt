@@ -1,3 +1,16 @@
+-------------^33.8.3^7-------------
+Fixed a bug where switching weapons would cause the firstperson hand model position adjustment to be reset
+Fixed data source issues for some widgets
+Try fixing the crackling noise that may occur when playing music via the pause menu
+Fixed an issue where music track did not work in the pause menu
+Fixed a bug with the smoke effect on zombies during the one inch punch upgrade step
+Fixed UI display issues in Shadows of the Underworld
+BO7 Score events
+Turn off the prediction line after a successful throw
+Change the ammo capacity for Raygun dualwield
+Added the center dot for the Apothicon Servant
+Challenges from the 3 Season Pass maps are now displayed on the scoreboard
+Fixed an issue where the game would crash due to various types of lag
 -------------^33.8.2^7-------------
 Fixed an issue with incorrect weapon angles in Pack-a-Punch
 Fixed an issue where the escort markers for Valkyrie and Mangler were not visible
