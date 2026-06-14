@@ -1,3 +1,35 @@
+-------------^33.8.4^7-------------
+Added a purchasable radio on Origins to directly call all 3 Giant Robots
+Map loading video cinematics can now be viewed in coop
+Reoptimized Xela’s Town Reimaged and removed unused content
+Added interaction feedback when buying ammo
+Added subtitles to Mob of the Dead, including dual-wield voice lines and pistol voice lines
+Removed pickup delay in Mob of the Dead
+Increased the interaction range for the plane parts in Mob of the Dead
+In Shangri-La, activating Eclipse during the Fire Zombie step will now spawn one Fire Zombie
+Added a sound effect in Shadows of Evil when Lil Arnie reaches 100 kills
+New AAE Option Filters
+
+Adjusted part of the damage management function logic
+Changed wunderwaffe trigger damage to 1
+Wunderwaffe is no longer affected by Insta-Kill
+Picked-up candies are now counted in the AAR
+Optimized the wunderwaffe bulb color
+Restored the KN-44’s original weapon name when it is not upgraded
+Xeno matter will spawned immediately after killing the parasites in round 12
+
+Fixed an issue where music did not play on the loading screen for some custom maps
+Fixed an issue where grenade throw trajectory lines could not be disabled
+Fixed a bug where the Scrambler camo and cherry fizz camo were reversed in the Pack-a-Punch camo list
+Fixed score event accumulation issues
+Fixed an issue where the music would become silent after completing the Origins Easter Egg
+Fixed an issue where third-person emote animations prevented camera rotation
+Fixed incorrect weapon models being held by lobby characters
+Fixed an issue where the completion count was not reported after finishing an Easter Egg
+Fixed an issue where the “F” interaction prompt was too small on some maps
+Fixed an issue where the jump pad below Quick Revive on Moon did not light up
+Fixed an issue where enabling the Rampage Inducer caused the map ending to end too early
+Fixed a time format bug in the AAT countdown
 -------------^33.8.3^7-------------
 Fixed a bug where switching weapons would cause the firstperson hand model position adjustment to be reset
 Fixed data source issues for some widgets
