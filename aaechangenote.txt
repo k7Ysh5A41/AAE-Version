@@ -1,3 +1,24 @@
+-------------^33.8.5^7-------------
+Added Ray Gun and Thundergun models to the Weapon Kits
+Added sensitive-content filtering when sending messages to the AAE Discord from within the game
+Maps without loading movies will now automatically use the loading-bar screen
+Added the old AAE color to UI color option
+Falling into the river from a zipline on Zetsubou No Shima no longer causes instant death
+A help prompt for the Micro-Missile Launcher
+
+Crawlers that are too far away and automatically die will no longer end the current round
+Reverted the previous change that prevented point refunds when the Mystery Box fly away
+Marked doors are now automatically unmarked after being interacted with
+Enter modvar no_inspect 1 in the console to disable weapon inspect
+Burned Out is now marked with the AAE tag
+The pause menu now displays Press T to Chat in solo
+Loading cinematics for Kino Der Toten and Call of the Dead no longer use cinematic black bars
+Switching AAE versions will now also check whether GobbleGum loadout has been reinitialized for the AAE loadout file
+
+Fixed an issue during the final Easter Egg step on Mob of the Dead where the afterlife players could not interact with the plane
+Fixed an issue where the grenade trajectory prediction could not be disabled
+Fixed an issue where picking up the Hacker caused the player’s body model to change into a spacesuit
+Fixed an issue introduced in the previous update where the Fire Zombie required for the Shangri-La Easter Egg would not spawn
 -------------^33.8.4^7-------------
 Added a purchasable radio on Origins to directly call all 3 Giant Robots
 Map loading video cinematics can now be viewed in coop
