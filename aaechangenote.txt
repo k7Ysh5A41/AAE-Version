@@ -1,3 +1,20 @@
+-------------^33.8.7^7-------------
+Added a control menu tab to bind AAE keybinds
+Added compatibility support for "FIVE"
+Replaced the blood screen UI with a new visual style
+Added the unused BO1 thundergun projectile trail sound
+Added a new loading screen style
+Reduced the maximum zombie attack speed (only applies when using a controller, without GobbleGums, without Widow’s Wine, and with no more than 5 perks)
+Added zombie blue eye effects created by Glazer™
+Der Eisendrache fire bow slow mode keybind changed to melee button
+Disabled ADS zoom now properly excludes sniper rifles
+After upgrading the SOE shield, the shield crafting table will also display the upgraded shield
+Changed the Der Eisendrache BRM wall weapon to the RPK
+Fixed an issue where AAE options were repeatedly reset
+Fixed missing dialogue lines on Zetsubou No Shima
+Fixed an issue on Der Eisendrache where suppressors caused the void bow symbol to drop on the same frame
+Fixed an issue where the zombie limit option did not work
+Fixed an issue where the Kills and Score headers were swapped in the scoreboard
 -------------^33.8.6^7-------------
 Fixed an issue where the in-game chat could mention everyone.
 Fixed the issue again where the afterlife players could not interact with the plane during the final Easter Egg step on Mob of the Dead
