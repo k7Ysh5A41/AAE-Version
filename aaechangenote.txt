@@ -1,183 +1,45 @@
--------------^33.8.7^7-------------
-Added a control menu tab to bind AAE keybinds
-Added compatibility support for "FIVE"
-Replaced the blood screen UI with a new visual style
-Added the unused BO1 thundergun projectile trail sound
-Added a new loading screen style
-Reduced the maximum zombie attack speed (only applies when using a controller, without GobbleGums, without Widow’s Wine, and with no more than 5 perks)
-Added zombie blue eye effects created by Glazer™
-Der Eisendrache fire bow slow mode keybind changed to melee button
-Disabled ADS zoom now properly excludes sniper rifles
-After upgrading the SOE shield, the shield crafting table will also display the upgraded shield
-Changed the Der Eisendrache BRM wall weapon to the RPK
-Fixed an issue where AAE options were repeatedly reset
-Fixed missing dialogue lines on Zetsubou No Shima
-Fixed an issue on Der Eisendrache where suppressors caused the void bow symbol to drop on the same frame
-Fixed an issue where the zombie limit option did not work
-Fixed an issue where the Kills and Score headers were swapped in the scoreboard
--------------^33.8.6^7-------------
-Fixed an issue where the in-game chat could mention everyone.
-Fixed the issue again where the afterlife players could not interact with the plane during the final Easter Egg step on Mob of the Dead
-Improved detection of whether the current map includes a loading movie
-Improved the aiming alignment of the thirdperson crosshair
--------------^33.8.5^7-------------
-Added Ray Gun and Thundergun models to the Weapon Kits
-Added sensitive-content filtering when sending messages to the AAE Discord from within the game
-Maps without loading movies will now automatically use the loading-bar screen
-Added the old AAE color to UI color option
-Falling into the river from a zipline on Zetsubou No Shima no longer causes instant death
-A help prompt for the Micro-Missile Launcher
+-------------^33.9.0^7-------------
+Highlights
+You can pause the game when playing only with splitscreen or bots
+Ability to switch between different AAE option and Custom mutation presets
+(Due to an update to the storage mechanism, the AAE options and custom mutation options have been reset)
+Added the AN-94 Assault Rifle to the AAE non-Lite version( Full Weapon Kit Support )
+(Due to the addition of new weapons, all weapon attachments and GobbleGum class have been reset)
 
-Crawlers that are too far away and automatically die will no longer end the current round
-Reverted the previous change that prevented point refunds when the Mystery Box fly away
-Marked doors are now automatically unmarked after being interacted with
-Enter modvar no_inspect 1 in the console to disable weapon inspect
-Burned Out is now marked with the AAE tag
-The pause menu now displays Press T to Chat in solo
-Loading cinematics for Kino Der Toten and Call of the Dead no longer use cinematic black bars
-Switching AAE versions will now also check whether GobbleGum loadout has been reinitialized for the AAE loadout file
+Added
+Perks now requires an additional cost to unlock its bonus effects (this can be changed to free in the options)
+Press O to open the Emote Menu
+Perk machine music added to the Music Tracks menu
+Shortened the pre-loading map animation
+Increased the maximum lobby size to 18 players and fixed an issue where players 9–18 could not see their own money
+Wunderwaffe DG-2 self-damage now plays the electric shock animation
+Remove the green marker indicating new items
+Added compatibility for the Rainy Doom
 
-Fixed an issue during the final Easter Egg step on Mob of the Dead where the afterlife players could not interact with the plane
-Fixed an issue where the grenade trajectory prediction could not be disabled
-Fixed an issue where picking up the Hacker caused the player’s body model to change into a spacesuit
-Fixed an issue introduced in the previous update where the Fire Zombie required for the Shangri-La Easter Egg would not spawn
--------------^33.8.4^7-------------
-Added a purchasable radio on Origins to directly call all 3 Giant Robots
-Map loading video cinematics can now be viewed in coop
-Reoptimized Xela’s Town Reimaged and removed unused content
-Added interaction feedback when buying ammo
-Added subtitles to Mob of the Dead, including dual-wield voice lines and pistol voice lines
-Removed pickup delay in Mob of the Dead
-Increased the interaction range for the plane parts in Mob of the Dead
-In Shangri-La, activating Eclipse during the Fire Zombie step will now spawn one Fire Zombie
-Added a sound effect in Shadows of Evil when Lil Arnie reaches 100 kills
-New AAE Option Filters
+Adjustments
+Significantly increased the rate at which perks are lost while downed
+AAT granted by the pack a punch is now awarded in sequence
+Replaced the Join the Party GobbleGum with Ephemeral Enhancement and removed Blood Debt
+Easter Egg rewards are now disabled by default and must be enabled through the options
+Rampage Inducer no longer requires multiple players to interact simultaneously
+Optimized the BO2 HUD layout
+Improved the orange zombie eye effect -by Glazer™
+While aiming in third person, the camera will temporarily switch to first person
+Disabled the 2-hour downed-time modification on Zetsubou No Shima after using Imprint Plant
+Upgraded Micro-Missile Launcher now only lock onto a maximum of 8 targets
+Delayed the initialization of the damage logic
+Zombie health bars now cap their displayed value at 100,000 HP
+Restored the original BO3 grenade explosion
+Compatibility for the character selection lists of Town Remastered and Town Reimaged
+Additional sensitive-word checks when sending messages to the AAE Discord server
+Completely fixed incorrect weapon attachment icons in the Weapon Kit menu
+Rewrote all HUD movement logic
+Zombies hit by the GKZ-45 MK3 vortex will now have their health adjusted to below 25,000 HP
 
-Adjusted part of the damage management function logic
-Changed wunderwaffe trigger damage to 1
-Wunderwaffe is no longer affected by Insta-Kill
-Picked-up candies are now counted in the AAR
-Optimized the wunderwaffe bulb color
-Restored the KN-44’s original weapon name when it is not upgraded
-Xeno matter will spawned immediately after killing the parasites in round 12
-
-Fixed an issue where music did not play on the loading screen for some custom maps
-Fixed an issue where grenade throw trajectory lines could not be disabled
-Fixed a bug where the Scrambler camo and cherry fizz camo were reversed in the Pack-a-Punch camo list
-Fixed score event accumulation issues
-Fixed an issue where the music would become silent after completing the Origins Easter Egg
-Fixed an issue where third-person emote animations prevented camera rotation
-Fixed incorrect weapon models being held by lobby characters
-Fixed an issue where the completion count was not reported after finishing an Easter Egg
-Fixed an issue where the “F” interaction prompt was too small on some maps
-Fixed an issue where the jump pad below Quick Revive on Moon did not light up
-Fixed an issue where enabling the Rampage Inducer caused the map ending to end too early
-Fixed a time format bug in the AAT countdown
--------------^33.8.3^7-------------
-Fixed a bug where switching weapons would cause the firstperson hand model position adjustment to be reset
-Fixed data source issues for some widgets
-Try fixing the crackling noise that may occur when playing music via the pause menu
-Fixed an issue where music track did not work in the pause menu
-Fixed a bug with the smoke effect on zombies during the one inch punch upgrade step
-Fixed UI display issues in Shadows of the Underworld
-BO7 Score events
-Turn off the prediction line after a successful throw
-Change the ammo capacity for Raygun dualwield
-Added the center dot for the Apothicon Servant
-Challenges from the 3 Season Pass maps are now displayed on the scoreboard
-Fixed an issue where the game would crash due to various types of lag
--------------^33.8.2^7-------------
-Fixed an issue with incorrect weapon angles in Pack-a-Punch
-Fixed an issue where the escort markers for Valkyrie and Mangler were not visible
-Fixed an issue with the loading of certain weapon attachment icons
-Fixed an issue with incorrect map names in Discord Rich Presence
-Fixed an issue that occurred when clicking the Lobby Size and Video Option dropdown menu
-Fixed an issue where the Water Park Challenge panel was not loading
-When the second counter in the zombie counter is updated, the animation for the main counter will no longer play
-Removed the BO2 staff glitch and Electric Cherry fx changes
-Preview image for the Zombie Chronicles II category has been removed
-Optimized Tempest's FX and logic
-Added a filter to the AAE options menu
--------------^33.8.0^7-------------
-^3Highlights
-^7Omni Movement
-Automatically fix game crashes caused by missing custom maps localization files
-
-^3Easter Egg Counter Update
-^790 Times
-Right D-pad Item Resupply Fix
-Wearables from Revelations and Gorod Krovi will be automatically unlocked in Round 2
-50 Times
-Pack-a-Punch spare change increased to 935
-
-^3Option Menu Update
-^7Hud Size
-Disable Player Chatter Subtitles
-Scrambler and Cherry Fizz added to Pack-a-Punch camo list
-If the HUD Format is set to Centered Perks, the perk slot UI is disabled
-Remove Immortal Snail and Weapon Roulette
-Remove Replace Gambler With Rampage Inducer Option
-
-^3Map Updates
-^7Dialogue fixes for Moon and der eisendrache
-Fixed an issue in Moon where characters had no dialogue while charging MPD
-Issue of hackers being unable to hack the excavator
-Fixed the issue where the Blackscreen not showing up after completing the Revelations
-Fixed the issue with the Biodome jump pad lights flickering
-Add switching rainbow water to the golden bucket
-Valkyrie drone are immune to non-bullet damage during the escort
-Add markers for Valkyrie drone and Mangler
-Moon's main EE does not require Richtofen
-Fall damage has been disabled in Shangri-La
-
-^3Fixed
-^7Gesture model is not loading
-Controller cannot inspect the weapon
-Issue with custom end screens not closing automatically
-Sorting the friend list in the game
-More than 10 people in the lobby
-Controller won't pause the game
-Bug fix for changing UI colors
-Splitscreen gestures
-Auto-fix unbound keys
-
-^3Added
-^7For weapons that do not support the inspect animation, play the animation for when the weapon is first obtained instead.
-t7patch status to Discord Rich Presence
-Zombie Counter displays the number of zombies currently on the map
-After purchasing Mulekick for the first time, a max ammo will spawn on the spot
-Inspect shortcut key to the Pause menu
-Optimized stats for multiple weapon attachments
-Display mission briefing details at the start
-Pop Shocks gobblegum rewards you with 50 points when you electrocute a zombie
-You can choose your character when you start the game
-New songs have been added to the music tracks
-Firstperson Electric Cherry effect only plays when the player looks at their own feet
-Aether Cinematics has added the Call of the Dead Outro
-Brightness Calibration Bar
-PHD upgrade now includes immunity to Panzer's electric explosions
-Send message to the AAE Discord server from within the game
-When player has Juggernog, no more one hit down from Napalm Zombie's explosion
-BO2 staff glitch
-Chat command /r to activate Rampage Inducer
-
-^3Changes
-^7Remove certain gambler items in solo
-Private maps will no longer share AARs on the AAR channel
-Adjust the priority of gesture
-Remove changes from the Origins and Element 115 camos
-Increase the camo coverage of the Wunderwaffe
-Remove the adjustment limits on the safe area
-Instakill Rework
-Only one perk jingle plays at a time, and players must be nearby.
-Hellhound's HP is tripled
-Teddy bear refund Removed
-Allows players to carry both the Ray Gun Mk1 and Mk2 at the same time
-Changes to the inspect logic on Path of Sorrows
-Remove the bullet hit sound added by Zombie Chronicles
-Press the D-pad up and the melee button to set the mulekick weapon
-Rampage Inducer removes the break between rounds
-Tempest Enhancement
-AAE Theme Color Change
-if 2 zombies left, the zombies ignore the bot and chase the player instead
-Change Default Key Bindings
+Fixes
+Weapon inspection not working with controllers
+Perk-a-Cola machines would not play their Perk bottle animations when gesture options were disabled
+Loading movies could not be played on some maps
+Various issues that could cause the game to crash
+Some AAE options could not be saved
+Incorrect dialogue played by Richtofen when repairing the window on Kino der Toten
