@@ -4,7 +4,7 @@ Fixed an issue with HUD movement in splitscreen
 Fixed an issue where the other player’s pause menu remained open after unpausing in splitscreen
 Fixed an issue where the Weapon Kit did not load completely
 Fixed an issue where solo game would wait for other players
-Slightly adjusted the Zone Announcer font.
+Slightly adjusted the Zone Announcer font
 Disabled gesture models when entering Beast Mode
 Slightly adjusted the hintstring widget
 -------------^33.9.0^7-------------
