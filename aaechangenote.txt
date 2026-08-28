@@ -1,3 +1,13 @@
+-------------^33.9.2^7-------------
+Second use of the Perkaholic now grants all Perk upgrades.
+Wunderwaffe DG-2 player Zap animation will no longer play when the player has PHD Flopper
+Highlighted Craftable Parts option now highlights the Hacker and the Moon computer cables
+Fixed an issue where the GobbleGum power-up could spawn on maps containing a GobbleGum machine
+Fixed an issue where disabling ADS zoom had no effect on the Vesper
+Fixed an issue where the Random Map button was not visible
+Fixed an issue where auto disabling Depth of Field did not work
+Fixed an issue that could cause the client to crash after activating AFK mode
+Fixed an issue where the AN-94 could not be obtained from the Mystery Box ( AAE non-Lite version )
 -------------^33.9.1^7-------------
 Fixed an issue where players could not activate AFK mode
 Fixed an issue with HUD movement in splitscreen
