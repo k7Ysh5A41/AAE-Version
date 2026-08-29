@@ -1,3 +1,6 @@
+-------------^33.9.3^7-------------
+Loading movies now have a 3-second delay before skipping is allowed
+Reverted all recent changes related to pausing the game
 -------------^33.9.2^7-------------
 Second use of the Perkaholic now grants all Perk upgrades.
 Wunderwaffe DG-2 player Zap animation will no longer play when the player has PHD Flopper
