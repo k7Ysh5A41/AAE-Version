@@ -1,7 +1,6 @@
 -------------^33.9.4^7-------------
 Added weather forecast information to the System Time widget
 Restored saved player scoreboard data from before the timeout when reconnecting to a lobby
-Re-recorded the main quest completion cutscenes for the 3 Season Pass maps and Shadows of Evil using DLSS 5
 Added a None option for Weapon Kit behavior in the AAE options
 Added Emoji input support to the AAE custom keyboard
 Added the ability to rename AAE presets
