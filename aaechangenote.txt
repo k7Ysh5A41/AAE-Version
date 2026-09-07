@@ -1,3 +1,31 @@
+-------------^33.9.4^7-------------
+Added weather forecast information to the System Time widget
+Restored saved player scoreboard data from before the timeout when reconnecting to a lobby
+Re-recorded the main quest completion cutscenes for the 3 Season Pass maps and Shadows of Evil using DLSS 5
+Added a None option for Weapon Kit behavior in the AAE options
+Added Emoji input support to the AAE custom keyboard
+Added the ability to rename AAE presets
+
+Changed the default AFK mode to delay
+Highlighted Craftable Parts option now also highlights the Keeper triangle stone through walls
+Obtaining all Perk Enhancement through Perkaholic now requires the Perk Enhancement option to be set to Free
+The low-health overlay now activates only when player health drops below 50%
+Disabled the GobbleGum bubble-blowing effect outside firstperson view
+While charging the Wrath of the Ancients electric arc, PHD-triggered explosions from falling now use the Slaughter Slide explosion behavior
+Made minor adjustments to the Gambler
+Removed the ghosting effect from the grenade throwing trajectory
+Moved the option to disable the Gambler below the Bank options
+Clipboard-related buttons and options are now hidden on Linux
+Optimized server-to-client string transfer
+When nearing completion of the Zetsubou No Shima main quest, all enemies outside the boss room are now moved inside
+
+Fixed an issue where the Perk Enhancement option would reset to its default value every time
+Fixed various subtitle issues
+Fixed Perk machine-related issues on Zetsubou No Shima and Shi No Numa
+Fixed FX-related errors that appeared while loading Shoot Haus
+Fixed an issue where the start menu in Ameliorama II did not load correctly
+Fixed an issue where the Starting Points option did not work
+Fixed an issue where the Purifier dealt no damage to Parasites
 -------------^33.9.3^7-------------
 Loading movies now have a 3-second delay before skipping is allowed
 Reverted all recent changes related to pausing the game
