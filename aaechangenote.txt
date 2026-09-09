@@ -1,12 +1,14 @@
 -------------^33.9.5^7-------------
-Fixed an infinite black screen issue on Mob of the Dead.
+Fixed an infinite black screen issue on Mob of the Dead
 Fixed an issue where the Perk Enhancement option could not be saved
 Fixed an issue where money could not be withdrawn from the Bank when EE rewards were enabled
 Fixed an issue where the Disable Team Gameplay Subtitles option did not work
 Fixed various subtitle issues on Ascension
 Fixed an issue where the PHD upgrade quest could not be completed
-Updated the Gambler random events: “You're Rich” now grants yourself 20,000 points and gives one teammate 2,000 points every 2 seconds; “Pixel World” now randomly selects one of two effects: either Pixel World or random frame drops
 Fixed the AN-94 aim assist values and increased its damage
+Updated the Gambler random events: 
+“You're Rich” now grants yourself 20,000 points and gives one teammate 2,000 points every 2 seconds
+“Pixel World” now randomly selects one of two effects: either Pixel World or random frame drops
 Changed the Panzersoldat spawn siren sound to BO2 version
 Zombies that normally award no kill points now grant 10 points per kill
 The Weather Forecast widget now automatically uses °C or °F based on the region
