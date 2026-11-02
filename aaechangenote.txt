@@ -1,3 +1,29 @@
+-------------------^3v4.1.0-------------------
+^2Highlights
+^7Greatly improved stability during long gameplay sessions (Fixed the "Connection Interrupted" crash)
+Added 18-player support to all Treyarch maps
+^2Added
+^7Improved map script compatibility
+Increased round limit to 999
+Attempted performance optimizations (September update only)
+Added a loading-to-game transition animation
+^2Changes
+^7Optimized War Machine movement
+Changed the default interaction icon
+Removed Time Played from Gun Game mode
+Improved gesture model resetting
+Changed Match-3 icon to GobbleGum
+^2Fixes
+Co-op Pause did not pause the game as expected
+^7Out-of-bounds climbing on some maps
+Weapon Locker unexpectedly refilling ammo
+Incorrect character names in Vae Victis
+Micro-Missile Launcher data
+Perk machine FX in Mob of the Dead
+localization variable errors
+Mission briefing text
+Crashes when browsing Weapon Kits
+-------------------^3v4.0.0-------------------
 ^2Highlights
 ^76 mini-games: Match-3, Tetris, Spider Solitaire, Pac-Man, Fruit Ninja, and 3D Pinball
 BO2-style Globe Map Selection with selectable satellite styles
