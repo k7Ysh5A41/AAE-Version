@@ -1,4 +1,6 @@
--------------------^3v4.1.0-------------------
+-------------------^3v4.1.1^7-------------------
+Fixes an issue where some features did not fully initialize in the February 2026 update and when running on Linux
+-------------------^3v4.1.0^7-------------------
 ^2Highlights
 ^7Greatly improved stability during long gameplay sessions (Fixed the "Connection Interrupted" crash)
 Added 18-player support to all Treyarch maps
@@ -23,7 +25,7 @@ Perk machine FX in Mob of the Dead
 localization variable errors
 Mission briefing text
 Crashes when browsing Weapon Kits
--------------------^3v4.0.0-------------------
+-------------------^3v4.0.0^7-------------------
 ^2Highlights
 ^76 mini-games: Match-3, Tetris, Spider Solitaire, Pac-Man, Fruit Ninja, and 3D Pinball
 BO2-style Globe Map Selection with selectable satellite styles
