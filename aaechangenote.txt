@@ -1,3 +1,7 @@
+-------------------^3v4.1.2^7-------------------
+Fixed a crash caused by memory address access in the September 2026 update on Linux
+Fixed an issue where the Bank and Weapon Locker could not be disabled.
+Clearer loading images for Vae Victis
 -------------------^3v4.1.1^7-------------------
 Fixes an issue where some features did not fully initialize in the February 2026 update and when running on Linux
 -------------------^3v4.1.0^7-------------------
