@@ -1,9 +1,15 @@
--------------------^3v4.1.2^7-------------------
+-------------------^3v4.1.3^7-------------------
 Fixed a crash caused by memory address access in the September 2026 update on Linux
-Fixed an issue where the Bank and Weapon Locker could not be disabled.
+Fixed an issue where the Bank and Weapon Locker could not be disabled
 Clearer loading images for Vae Victis
--------------------^3v4.1.1^7-------------------
 Fixes an issue where some features did not fully initialize in the February 2026 update and when running on Linux
+Fixed an issue where not all Mystery Boxes could be opened
+Fixed main Easter Egg progression issues on multiple maps
+Fixed mantling issues on Christmas Rust
+Fixed lobby ID recognition issues when joining a game
+Removed unnecessary debug prints from Zetsubou No Shima
+Fixed round system failures caused by outdated scripts on certain maps
+Rewrote the image asset pool expansion module to address recent random crashes
 -------------------^3v4.1.0^7-------------------
 ^2Highlights
 ^7Greatly improved stability during long gameplay sessions (Fixed the "Connection Interrupted" crash)
