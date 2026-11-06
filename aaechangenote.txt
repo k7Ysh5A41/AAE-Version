@@ -1,3 +1,8 @@
+-------------------^3v4.1.4^7-------------------
+The gravestones in the Ice Staff upgrade quest can now be destroyed with explosive impact
+Optimized string cache
+Minor performance optimizations
+Attempted to fix pixel flickering on RTX graphics cards that persists even after disabling center dot
 -------------------^3v4.1.3^7-------------------
 Fixed a crash caused by memory address access in the September 2026 update on Linux
 Fixed an issue where the Bank and Weapon Locker could not be disabled
