@@ -1,3 +1,8 @@
+-------------------^3v4.1.5^7-------------------
+Increased font rendering resolution from 720p to 1440p
+Disabled perk machine jingles in Mob of the Dead
+Added support for Buried
+Minor performance optimizations
 -------------------^3v4.1.4^7-------------------
 The gravestones in the Ice Staff upgrade quest can now be destroyed with explosive impact
 Optimized string cache
