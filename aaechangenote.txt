@@ -1,3 +1,6 @@
+-------------------^3v4.1.6^7-------------------
+Fixed an issue where the powerup icon for Buried was missing
+loading movie for Classifive
 -------------------^3v4.1.5^7-------------------
 Increased font rendering resolution from 720p to 1440p
 Disabled perk machine jingles in Mob of the Dead
