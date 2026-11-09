@@ -1,3 +1,13 @@
+-------------------^3v4.1.7^7-------------------
+Coop pause now uses a dedicated network channel to synchronize pause states across clients
+Optimized the lobby joining process to significantly reduce join failures
+Fixed an issue where initialization of certain functions would fail in certain system environments
+^3Buried changes^7:
+New Mantle System
+Subtitle support
+Gobblegum meter
+Limited Stuhlinger to one player per match
+Fixed issues with some nonfunctional UI elements
 -------------------^3v4.1.6^7-------------------
 Fixed an issue where the powerup icon for Buried was missing
 loading movie for Classifive
